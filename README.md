@@ -14,8 +14,7 @@ Telegram bot that gives you a random task from your tasklist
 
 ## Usage
 ### Bot
-1.
-    git clone https://github.com/mingghan/random_planner.git
+1. `git clone https://github.com/mingghan/random_planner.git`
 2. Create your bot on [Telegram bot page](https://core.telegram.org/bots#6-botfather) and get your token
 3. Put your token into config.py
 4. Start the bot with
@@ -24,3 +23,4 @@ Telegram bot that gives you a random task from your tasklist
     /next - gets new task
     /pause - pauses task
     /done - finishes task and removes it from the list
+6. Your tasklist is in `lists/work.txt` file
