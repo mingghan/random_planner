@@ -24,3 +24,6 @@ Telegram bot that gives you a random task from your tasklist
     * `/pause` - pauses task
     * `/done` - finishes task and removes it from the list
 6. Your tasklist is in `lists/work.txt` file
+
+### Shell
+1. Run `python planner.py lists/work.txt` and follow the instructions. Instead of `lists/work.txt` you can use any other file on your filesystem
