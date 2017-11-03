@@ -1,7 +1,7 @@
 work
-	task1
+	!!task1 # exclamation mark (!) means priority, the more ! at the beginning, the more important is the task
 	task2
 self-improvement
 	task3
 		task4
-		task5
+		_task5 # underline at the beginning means low importance, all low-importance task are counted as one task when planning
