@@ -26,4 +26,5 @@ Telegram bot that gives you a random task from your tasklist
 6. Your tasklist is in `lists/work.txt` file
 
 ### Shell
-1. Run `python planner.py lists/work.txt` and follow the instructions. Instead of `lists/work.txt` you can use any other file on your filesystem
+1. `git clone https://github.com/mingghan/random_planner.git`
+2. Run `python planner.py lists/work.txt` and follow the instructions. Instead of `lists/work.txt` you can use any other file on your filesystem
